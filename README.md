@@ -1,4 +1,4 @@
-go away
+Go away !
 
 you find here no meaningful scripts, 
 it's only my way to learn python
